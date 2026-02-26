@@ -1,5 +1,3 @@
-package MethodDemo;
-
 import java.util.Scanner;
 
 public class DaysInMonth {
