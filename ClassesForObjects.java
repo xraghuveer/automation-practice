@@ -17,7 +17,6 @@ class Desktop {
     int ram;
     int storage;
 }
-}
 
 class College {
     String name;
